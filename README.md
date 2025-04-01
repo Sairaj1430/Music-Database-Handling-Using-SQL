@@ -42,6 +42,7 @@ Check report.docx for analysis details.
 View presentation.pptx for a summary of insights.
 
 💡 Future Enhancements
+
 Integrating Power BI/Tableau for interactive dashboards
 
 Extending queries for deeper insights into customer trends
